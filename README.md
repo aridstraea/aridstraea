@@ -58,10 +58,10 @@
   <tbody>
     <tr></tr>
       <td><a href="https://github.com/aristraea/echoedcore"><b>EchoedCore</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/aristraea/airdcore?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/aristraea/airdcore?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/aristraea/airdcore?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aristraea/airdcore?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/aristraea/aridcore?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/aristraea/aridcore?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/aristraea/aridcore?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aristraea/aridcore?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/aristraea/Bookstore-Chain-Management"><b>Bookstore Chain Management API</b></a></td>
