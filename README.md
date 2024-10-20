@@ -31,8 +31,8 @@
 ✔ Ask me about anything, I am happy to help!<br><br>
 
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aristraea&show_icons=true&count_private=true&locale=en&theme=merko" alt="aridstraea's most used languages" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=aristraea&show_icons=true&count_private=true&theme=merko"width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com?user=aristraea&theme=merko" width="50%" height="10.0%"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aridstraea&show_icons=true&count_private=true&locale=en&theme=merko" alt="aridstraea's most used languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=aridstraea&show_icons=true&count_private=true&theme=merko"width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com?user=aridstraea&theme=merko" width="50%" height="10.0%"/></p>
 <hr>
 
 <em><strong>🧰 Tools & languages I've worked with...</strong></em> <br>
@@ -57,18 +57,18 @@
   </thead>
   <tbody>
     <tr></tr>
-      <td><a href="https://github.com/aristraea/echoedcore"><b>EchoedCore</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/aristraea/aridcore?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/aristraea/aridcore?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/aristraea/aridcore?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aristraea/aridcore?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/aridstraea/echoedcore"><b>EchoedCore</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/aridstraea/aridcore?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/aridstraea/aridcore?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/aridstraea/aridcore?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aridstraea/aridcore?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/aristraea/Bookstore-Chain-Management"><b>Bookstore Chain Management API</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/aristraea/Bookstore-Chain-Management?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/aristraea/Bookstore-Chain-Management?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/aristraea/Bookstore-Chain-Management?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aristraea/Bookstore-Chain-Management?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/aridstraea/Bookstore-Chain-Management"><b>Bookstore Chain Management API</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/aridstraea/Bookstore-Chain-Management?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/aridstraea/Bookstore-Chain-Management?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/aridstraea/Bookstore-Chain-Management?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aridstraea/Bookstore-Chain-Management?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
